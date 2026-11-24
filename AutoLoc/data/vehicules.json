@@ -1,0 +1,80 @@
+[
+  {
+    "_id": {
+      "$oid": "000000000000000000000001"
+    },
+    "marque": "Toyota",
+    "modele": "RAV4",
+    "categorie": "SUV",
+    "prixJour": 85,
+    "annee": 2022,
+    "transmission": "Automatique",
+    "image": "vehicule-1.png",
+    "disponible": true
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000002"
+    },
+    "marque": "Honda",
+    "modele": "Civic",
+    "categorie": "Berline",
+    "prixJour": 55,
+    "annee": 2023,
+    "transmission": "Automatique",
+    "image": "vehicule-2.png",
+    "disponible": true
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000003"
+    },
+    "marque": "Tesla",
+    "modele": "Model 3",
+    "categorie": "Électrique",
+    "prixJour": 110,
+    "annee": 2022,
+    "transmission": "Automatique",
+    "image": "vehicule-3.png",
+    "disponible": true
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000004"
+    },
+    "marque": "Kia",
+    "modele": "Sportage",
+    "categorie": "SUV",
+    "prixJour": 75,
+    "annee": 2023,
+    "transmission": "Automatique",
+    "image": "vehicule-4.png",
+    "disponible": true
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000005"
+    },
+    "marque": "Hyundai",
+    "modele": "Elantra",
+    "categorie": "Berline",
+    "prixJour": 60,
+    "annee": 2022,
+    "transmission": "Automatique",
+    "image": "vehicule-5.png",
+    "disponible": true
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000006"
+    },
+    "marque": "Nissan",
+    "modele": "Leaf",
+    "categorie": "Électrique",
+    "prixJour": 70,
+    "annee": 2023,
+    "transmission": "Automatique",
+    "image": "vehicule-6.png",
+    "disponible": true
+  }
+]

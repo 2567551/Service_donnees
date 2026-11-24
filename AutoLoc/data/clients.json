@@ -1,0 +1,62 @@
+[
+  {
+    "_id": {
+      "$oid": "000000000000000000000065"
+    },
+    "nom": "Tremblay",
+    "courriel": "client1@example.com",
+    "prenom": "Sarah",
+    "telephone": "514-555-0100",
+    "ville": "Montréal"
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000066"
+    },
+    "nom": "Roy",
+    "courriel": "client2@example.com",
+    "prenom": "Alex",
+    "telephone": "514-555-0101",
+    "ville": "Montréal"
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000067"
+    },
+    "nom": "Gagnon",
+    "courriel": "client3@example.com",
+    "prenom": "Camille",
+    "telephone": "514-555-0102",
+    "ville": "Montréal"
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000068"
+    },
+    "nom": "Bouchard",
+    "courriel": "client4@example.com",
+    "prenom": "Noah",
+    "telephone": "514-555-0103",
+    "ville": "Montréal"
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000069"
+    },
+    "nom": "Fortin",
+    "courriel": "client5@example.com",
+    "prenom": "Léa",
+    "telephone": "514-555-0104",
+    "ville": "Montréal"
+  },
+  {
+    "_id": {
+      "$oid": "00000000000000000000006a"
+    },
+    "nom": "Côté",
+    "courriel": "client6@example.com",
+    "prenom": "Adam",
+    "telephone": "514-555-0105",
+    "ville": "Montréal"
+  }
+]
